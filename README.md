@@ -29,7 +29,7 @@ Founded June 2026. The book is in its earliest public form. The corpus accepts e
 
 ## Founding
 
-a13i was founded by Acea Spades (Sundragon Tech). It grew out of The Blind Computer (theblindcomputer.com), a voice computer built for blind users, where the overlap between assistive technology and AI agents stopped being a theory and became a daily engineering reality.
+a13i was founded by Acea Spades (Sundragon Tech) in June 2026. Founding implementations are credited in the Consortium chapter of the guide; see `GOVERNANCE.md` for how the project grows into a consortium.
 
 ## Licenses
 

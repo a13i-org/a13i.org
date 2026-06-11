@@ -3,7 +3,7 @@ id: EXP-001
 title: Semantic HTML vs div soup, agent task performance and token cost
 status: proposed
 authors:
-  - Acea Spades (Sundragon Tech / The Blind Computer)
+  - Acea Spades (Sundragon Tech)
 created: 2026-06-10
 updated: 2026-06-10
 models:
@@ -44,4 +44,4 @@ None yet.
 
 ## Discussion
 
-This is the corpus's foundation experiment because it tests the founding observation of a13i directly. Until it reaches replicated status, the book must describe the semantic-markup advantage as a hypothesis. Anecdotal motivation, for the record and clearly labeled as anecdote: in building The Blind Computer, pages that worked well for screen reader users were consistently the pages its agents handled well, and the failures shared root causes. That experience motivates the hypothesis and proves nothing.
+This is the corpus's foundation experiment because it tests the founding observation of a13i directly. Until it reaches replicated status, the book must describe the semantic-markup advantage as a hypothesis. Anecdotal motivation, for the record and clearly labeled as anecdote: in building voice computer tools for blind users, pages that worked well for screen reader users were consistently the pages AI agents handled well, and the failures shared root causes. That experience motivates the hypothesis and proves nothing.

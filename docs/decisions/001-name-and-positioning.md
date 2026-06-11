@@ -15,7 +15,7 @@ Positioning guardrails, binding on all public material:
 
 1. a13i lifts a11y and never replaces it. The manifesto's People First, Always rule is the project's identity, partly because the a11y community has well-earned hostility toward AI products that promised accessibility and delivered overlays.
 2. No claims without corpus backing. Unproven statements are labeled hypotheses, including in marketing.
-3. Founder and The Blind Computer are presented as practitioners publishing evidence, in the voice of a sighted ally of blind users, never in a voice that claims disabled people's experience.
+3. The project writes in the voice of a sighted ally of disabled users, never in a voice that claims disabled people's experience. Founding tools are named only in consortium contexts so the mission reads bigger than any one product. (Amended by decision 003, 2026-06-11.)
 
 ## Collision check results (2026-06-10)
 

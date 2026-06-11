@@ -29,3 +29,11 @@ A snapshot of the prior art and the field at founding time. The book cites from 
 ## Naming check
 
 The term a13i was checked on 2026-06-10. Verdict: minor collisions only, details in decision record 001. The Accessibility AI numeronym slot was empty at founding time.
+
+## Standards and legal snapshot (verified 2026-06-11)
+
+- **WCAG 2.2** remains the W3C Recommendation (Oct 2023, errata Dec 2024; ISO/IEC 40500:2025 as of Oct 2025). **WCAG 3** is an incomplete Working Draft (latest 2026-03-03): plain-language outcome statements replace success criteria, conformance moves toward Bronze/Silver/Gold, and W3C states it will not supersede WCAG 2 for years.
+- **European Accessibility Act** applies since 28 June 2025 to e-commerce, banking, transport, telecom, e-books, and consumer digital services sold into the EU; baseline EN 301 549 (incorporating WCAG 2.1 AA); enforcement is active.
+- **US DOJ ADA Title II web rule:** original deadlines (April 2026 and 2027) were EXTENDED one year by an Interim Final Rule effective 2026-04-20: now 26 April 2027 (population 50k+) and 26 April 2028. Do not cite the 2026 dates as current.
+- **W3C APA Working Group** maintains the Editor's Draft "Accessibility of machine learning and generative AI" (updated 2026-03-28): the official register on AI is cautious optimism ("the potential for AI benefits within the web accessibility space could be profound") paired with explicit reliability and bias caveats and a warning against brute-force approaches that bypass inclusive design expertise. a13i's voice mirrors that calibration.
+- **Language conventions:** W3C WAI house style is person-first ("people with disabilities"); many communities prefer identity-first ("blind people", "Deaf", "autistic"), and expressed preference of disabled people supersedes style rules. The official accessibility-benefit line is "essential for people with disabilities and useful for all" (the popular "essential for some, useful for all" is paraphrase).
