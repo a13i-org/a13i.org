@@ -6,7 +6,7 @@
 
 This repository is an open book and an open corpus. It documents how AI systems and accessible interfaces interact, what we can measure about that interaction, and how developers can build for humans and machines at the same time.
 
-Live site: https://a13i.org (coming soon)
+Live site: https://a13i.org
 
 ## The one-sentence thesis
 
