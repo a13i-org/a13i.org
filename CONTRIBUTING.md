@@ -10,6 +10,8 @@ The book lives in `src/content/docs/`, one markdown file per chapter. The site s
 
 - Plain language. Short sentences. Explain jargon on first use.
 - No em dashes and no en dashes anywhere in prose. Use commas, colons, or full stops.
+- State things affirmatively. Avoid rhetorical negation fragments ("Not X. Y.") and "not X but Y" antithesis; say what something is.
+- No single disability is the default reader or the default example. Visual, auditory, physical, speech, cognitive, and neurological access are all use cases of the same discipline.
 - Claims about AI behavior must cite a corpus experiment or be explicitly labeled as a hypothesis.
 - Write about disabled people with respect and without claiming their experience as your own. Cite first-person sources from disabled authors wherever possible.
 - Accessibility guidance must align with WCAG 2.2 AA or explain precisely why it departs from it.

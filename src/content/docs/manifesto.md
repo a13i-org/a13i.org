@@ -5,21 +5,19 @@ description: "Accessibility, reborn in AI. We are using AI to transform web and 
 
 ## The internet belongs to everyone
 
-The internet was not built for eyes. It was built as a democratic space where information could flow freely to anyone who sought it. The web's inventor said it plainly: "The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect." That sentence is not decoration on the web's history. It is the founding bargain.
+The internet was built as a democratic space where information could flow freely to anyone who sought it. The web's inventor said it plainly: "The power of the Web is in its universality. Access by everyone regardless of disability is an essential aspect." That sentence is the web's founding bargain.
 
 Pages, screens, pointers, menus: these are interfaces. They are choices about how to present information, made by people, changeable by people. No interface is sacred, and none of them is the information itself. We hold the right to develop interfaces to the world's information however we wish. We also inherit the obligation that came with the web's founding bargain: whatever interface we build must let everyone in.
 
 ## Access is the point. The interface is a choice.
 
-When a person cannot use a website, the information did not fail them. The interface did. Inclusive design has taught the industry where disability actually lives: in the mismatch between a person and a designed thing, never in the person. For decades, the industry treated one interface, the visual page, as the real product, and treated every other way of reaching the information as a translation problem. The accessibility community spent those decades doing the hardest work on the web: bending a sight-first interface toward everyone else, one standard, one audit, and one lawsuit at a time. Their discipline produced the deepest knowledge we have about making interfaces honest. And it produced a lesson the whole industry keeps relearning because it keeps being true: accessibility is essential for people with disabilities and useful for all.
+When a person cannot use a website, the interface failed them, and the interface can be changed. Inclusive design has taught the industry where disability actually lives: in the mismatch between a person and a designed thing. For decades, the industry treated one interface, the visual page, as the real product, and treated every other way of reaching the information as a translation problem. The accessibility community spent those decades doing the hardest work on the web: bending a sight-first interface toward everyone else, one standard, one audit, and one lawsuit at a time. Their discipline produced the deepest knowledge we have about making interfaces honest. And it produced a lesson the whole industry keeps relearning because it keeps being true: accessibility is essential for people with disabilities and useful for all.
 
 ## a11y, reborn in AI
 
-a13i is Accessibility AI: the accessibility tradition, enhanced and reborn in AI. We, all who develop a13i technology, are using AI to transform web and technology accessibility into a first-class experience. Not a bolt-on. The main door.
+a13i is Accessibility AI: the accessibility tradition, enhanced and reborn in AI. We, all who develop a13i technology, are using AI to transform web and technology accessibility into a first-class experience: the main door, open to everyone.
 
-AI is the first interface technology that adapts to the person instead of demanding that the person adapt to it. An AI that genuinely understands a digital surface can present that surface as fluent conversation for a person who cannot see it, as clear visible text for a person who cannot hear it, as voice control and patient pacing for a person who cannot use a pointer, as a calmer and simpler rendering for a person carrying cognitive load, and as steady guidance for anyone defeated by a form at the end of a long day. One substrate, every modality. a13i is for all who require accessibility, and for the temporary and situational needs that reach every person eventually.
-
-This guide's opening volume goes deep on visual impairment, where our evidence base is strongest today. The other volumes are coming, and the discipline below belongs to all of them.
+AI is the first interface technology that adapts to the person instead of demanding that the person adapt to it. An AI that genuinely understands a digital surface can present that surface as fluent conversation for a person who cannot see it, as clear visible text for a person who cannot hear it, as voice control and patient pacing for a person who cannot use a pointer, as a calmer and simpler rendering for a person carrying cognitive load, and as steady guidance for anyone defeated by a form at the end of a long day. Each of these is a use case of the same discipline. One substrate, every modality, and room for tools none of us have imagined yet. a13i is for all who require accessibility, and for the temporary and situational needs that reach every person eventually.
 
 ## The discipline
 
@@ -49,7 +47,7 @@ We also name what we refuse to become. Accessibility-washing: dressing machine r
 
 ## Claims require experiments
 
-The intersection of AI and accessibility is full of plausible folklore. This project publishes corpus experiments with pinned models, published prompts, and reproducible methods. A claim without an experiment is a hypothesis and gets labeled as one. A null result is a publication. A vendor pitch is neither.
+The intersection of AI and accessibility is full of plausible folklore. This project publishes corpus experiments with pinned models, published prompts, and reproducible methods. A claim without an experiment is a hypothesis and gets labeled as one, and a null result is a publication in its own right.
 
 ## Open by default
 

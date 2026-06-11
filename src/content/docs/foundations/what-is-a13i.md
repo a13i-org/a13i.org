@@ -28,6 +28,6 @@ This overlap is the founding observation of a13i. It is also a testable claim, w
 
 Web developers who want one effort to pay out twice. Accessibility specialists who want leverage with teams that suddenly care about agents. AI engineers whose browsing agents keep failing on real-world pages. Product owners deciding what "machine readable" should mean for their roadmap.
 
-## Scope of this volume
+## Scope today
 
-a13i is for everyone accessibility serves: visual, auditory, physical, speech, cognitive, and neurological access (the categories W3C WAI itself enumerates), along with the temporary and situational needs that touch every person eventually. The guide's opening volume focuses on visual impairment, where the project's evidence base is deepest today. Volumes for the other domains are planned, and contributors who want to start them are welcome now.
+a13i is for everyone accessibility serves: visual, auditory, physical, speech, cognitive, and neurological access (the categories W3C WAI itself enumerates), along with the temporary and situational needs that touch every person eventually. Visual access is one use case among many. It happens to be the guide's most developed material today, because that is where the project's early evidence came from, and chapters across the other domains are planned. Contributors who want to start any of them are welcome now.
