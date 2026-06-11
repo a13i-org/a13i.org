@@ -1,4 +1,7 @@
-# Patterns
+---
+title: "Patterns"
+description: "Engineering practice that serves screen reader users and AI agents from the same code."
+---
 
 This part of the guide turns corpus evidence into engineering practice: concrete markup, naming, and structure patterns that serve screen reader users and AI agents from the same code.
 

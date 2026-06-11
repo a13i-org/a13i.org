@@ -1,4 +1,7 @@
-# How the corpus works
+---
+title: "How the corpus works"
+description: "The evidence layer of a13i: reproducible experiments where claims earn the right to be made."
+---
 
 The corpus is the evidence layer of a13i. The book makes claims; the corpus is where claims earn the right to be made.
 

@@ -1,4 +1,7 @@
-# Tooling
+---
+title: "Tooling"
+description: "Auditing pages for both audiences and running agent-vs-page experiments yourself."
+---
 
 This part covers the instruments: how to audit a page for both audiences and how to run agent-vs-page experiments yourself.
 

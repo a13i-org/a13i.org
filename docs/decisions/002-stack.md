@@ -1,13 +1,13 @@
 # 002: Site stack
 
-- **Status:** proposed (awaiting founder approval)
+- **Status:** accepted 2026-06-10
 - **Date:** 2026-06-10
 
 ## Context
 
 The book needs a GitBook-style site at a13i.org. Per the manifesto's dogfood rule (section 7), the site itself is the project's first exhibit: it must be exemplary for screen readers and for agents, and measurably so.
 
-## Decision (proposed)
+## Decision
 
 **Astro Starlight**, deployed to Cloudflare Pages (same pipeline as theblindcomputer.com).
 
@@ -15,7 +15,7 @@ Reasons:
 
 - GitBook-style docs UI out of the box: sidebar ToC, search, prev/next.
 - Strong accessibility baseline and a community that treats a11y regressions as bugs.
-- Content stays plain markdown in `book/`, which keeps the contribution bar low and keeps the corpus diffable.
+- Content stays plain markdown in `src/content/docs/`, which keeps the contribution bar low and keeps the corpus diffable.
 - Static output is fast, cheap, and trivially mirrorable as raw markdown for agents.
 - Founder already operates an Astro Starlight template (the lore-wiki template family), so operational knowledge exists.
 
@@ -34,5 +34,5 @@ Dogfood requirements for the site, all release blockers:
 
 ## Consequences
 
-- Repo gains an Astro app alongside `book/` content; a devcontainer ships with the scaffold per house engineering rules.
+- Repo gains an Astro app at the root with chapters in `src/content/docs/`; a devcontainer ships with the scaffold per house engineering rules.
 - CI gets an accessibility audit gate before deploy.

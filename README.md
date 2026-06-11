@@ -16,7 +16,7 @@ Interfaces that work for assistive technology tend to work for AI agents, and th
 
 | Path | What it is |
 |---|---|
-| `book/` | The Guide to a13i, chapter source in markdown |
+| `src/content/docs/` | The Guide to a13i, chapter source in markdown, rendered at a13i.org |
 | `corpus/` | The experiment corpus: reproducible studies of AI against accessible and inaccessible interfaces |
 | `docs/decisions/` | Project decision records |
 | `MANIFESTO.md` | Why a13i exists and the rules it holds itself to |

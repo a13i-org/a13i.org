@@ -1,4 +1,7 @@
-# The Convergence
+---
+title: "The Convergence"
+description: "Screen readers and AI agents read the same web, and both need the page to say what it means."
+---
 
 Screen readers and AI agents arrived at the same dependency from opposite directions: both need the page to say what it means.
 

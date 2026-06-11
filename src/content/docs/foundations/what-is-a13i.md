@@ -1,4 +1,7 @@
-# What is a13i?
+---
+title: "What is a13i?"
+description: "a13i is Accessibility AI: engineering, measuring, and advocating for assistive technology and AI agents at once."
+---
 
 a13i is a numeronym for Accessibility AI: the letter a, thirteen letters, the letter i. It names the discipline at the intersection of two questions that used to be asked separately:
 

@@ -1,4 +1,7 @@
-# The Consortium
+---
+title: "The Consortium"
+description: "A vendor-neutral body maintaining a shared evidence base for AI and accessible interfaces."
+---
 
 a13i is built to outgrow its founder. The goal is a vendor-neutral body where developers, companies, researchers, and disabled advocates maintain a shared evidence base for AI and accessible interfaces.
 

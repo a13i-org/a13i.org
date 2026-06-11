@@ -1,0 +1,41 @@
+---
+title: a13i
+description: "Accessibility AI: the open guide and evidence corpus for interfaces that work for assistive technology and AI agents at once."
+template: splash
+hero:
+  title: a13i
+  tagline: "Accessibility AI. Interfaces that work for assistive technology tend to work for AI agents, so we engineer, measure, and advocate for both as one discipline. People first, always."
+  actions:
+    - text: Read the guide
+      link: /foundations/what-is-a13i/
+      icon: right-arrow
+    - text: The manifesto
+      link: /manifesto/
+      variant: secondary
+    - text: Contribute on GitHub
+      link: https://github.com/a13i-org/a13i.org
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid stagger>
+	<Card title="An open book" icon="open-book">
+		The Guide to a13i documents how AI systems and accessible interfaces interact, and how to build
+		for humans and machines from the same code. Open source, CC BY 4.0.
+	</Card>
+	<Card title="An evidence corpus" icon="magnifier">
+		Reproducible experiments with pinned models and published prompts. Claims without experiments
+		are labeled hypotheses, here and everywhere we publish.
+	</Card>
+	<Card title="The double dividend" icon="approve-check">
+		A real button, a labeled field, an honest heading outline: each serves a blind human using a
+		screen reader and an AI agent reading the DOM. One hour of engineering, paid out twice.
+	</Card>
+	<Card title="People first" icon="heart">
+		Accessibility exists for disabled people. Any practice that helps machines while degrading
+		human accessibility fails a13i review by definition. AI does not make a site accessible by
+		itself, and we will never claim it does.
+	</Card>
+</CardGrid>

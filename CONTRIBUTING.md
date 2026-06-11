@@ -4,7 +4,7 @@ There are three ways in: chapters, experiments, and corrections. All three arriv
 
 ## Chapters and edits (the book)
 
-The book lives in `book/`, one markdown file per chapter, indexed in `book/SUMMARY.md`. Propose a new chapter by opening an issue first; fix or improve an existing one by sending the PR directly.
+The book lives in `src/content/docs/`, one markdown file per chapter. The site sidebar (the table of contents) is configured in `astro.config.mjs`. Propose a new chapter by opening an issue first; fix or improve an existing one by sending the PR directly.
 
 ### House style
 
