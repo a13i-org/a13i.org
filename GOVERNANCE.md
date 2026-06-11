@@ -17,7 +17,7 @@ When 5 or more organizations are actively contributing experiments, funding, or 
 - One seat per member organization, one founder seat.
 - The TSC owns the corpus methodology, the experiment review process, and the book roadmap.
 - Manifesto changes require TSC supermajority plus founder consent during the first three years.
-- Membership requires public commitment to the manifesto, especially section 4 (people first) and section 5 (claims require experiments).
+- Membership requires public commitment to the manifesto, especially People First, Always and Claims Require Experiments.
 
 ## What the consortium is for
 

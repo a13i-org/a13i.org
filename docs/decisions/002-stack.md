@@ -5,7 +5,7 @@
 
 ## Context
 
-The book needs a GitBook-style site at a13i.org. Per the manifesto's dogfood rule (section 7), the site itself is the project's first exhibit: it must be exemplary for screen readers and for agents, and measurably so.
+The book needs a GitBook-style site at a13i.org. Per the manifesto's We Practice What We Publish rule, the site itself is the project's first exhibit: it must be exemplary for screen readers and for agents, and measurably so.
 
 ## Decision
 
@@ -19,7 +19,7 @@ Reasons:
 - Static output is fast, cheap, and trivially mirrorable as raw markdown for agents.
 - Founder already operates an Astro Starlight template (the lore-wiki template family), so operational knowledge exists.
 
-Dogfood requirements for the site, all release blockers:
+Self-application requirements for the site, all release blockers:
 
 1. WCAG 2.2 AA, verified before each deploy.
 2. `llms.txt` at the root, and every page available as raw markdown at a predictable URL.
@@ -30,7 +30,7 @@ Dogfood requirements for the site, all release blockers:
 
 - **mdBook:** simple and fast but weaker component ecosystem for the corpus browsing UI.
 - **VitePress:** good, but default theme has known accessibility rough edges that would have to be fixed before launch, which is backwards for this project.
-- **GitBook (hosted):** closed platform conflicts with the open-by-default rule and limits dogfooding.
+- **GitBook (hosted):** closed platform conflicts with the open-by-default rule and prevents the site from practicing what the book publishes.
 
 ## Consequences
 

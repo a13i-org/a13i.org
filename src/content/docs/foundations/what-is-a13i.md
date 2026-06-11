@@ -20,7 +20,7 @@ This overlap is the founding observation of a13i. It is also a testable claim, w
 
 ## What a13i is not
 
-- It is not a replacement for a11y. Human accessibility is the senior discipline here and the source of most of our methods. See the manifesto, section 4.
+- It is not a replacement for a11y. Human accessibility is the senior discipline here and the source of most of our methods. See the manifesto, People First, Always.
 - It is not an overlay product or a compliance widget. a13i is knowledge and evidence, free to use.
 - It is not vendor advocacy. Experiments pin their models and publish their methods so that results outlive any one provider.
 

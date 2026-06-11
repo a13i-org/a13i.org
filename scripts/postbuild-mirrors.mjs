@@ -1,5 +1,5 @@
-// Dogfood rule (manifesto section 7, decision 002): every guide page is
-// served as raw markdown at a predictable URL, indexed by /llms.txt.
+// Manifesto rule, We Practice What We Publish (decision 002): every guide
+// page is served as raw markdown at a predictable URL, indexed by /llms.txt.
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync } from 'node:fs';
 import { join, relative, dirname } from 'node:path';
 
